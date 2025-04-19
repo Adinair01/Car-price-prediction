@@ -6,7 +6,7 @@ Trained on data from **Car Dekho**.
 ## 📁 Project Structure
 
 - `CAR DETAILS FROM CAR DEKHO.csv` – Dataset containing car specifications and prices.
-- `app.py` – Web app interface (built with Streamlit or Flask).
+- `app.py` – Web app interface (built with Streamlit & Flask).
 - `le_fuel.pkl`, `le_owner.pkl`, `le_seller.pkl`, `le_trans.pkl` – Label encoders for categorical features.
 
 ## 📊 Dataset
